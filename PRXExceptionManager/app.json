@@ -1,0 +1,32 @@
+{
+  "id": "3588b91f-be07-47de-834d-8b3d995992d2",
+  "name": "PRX Purchase Receiving Exception Manager",
+  "publisher": "Mohammed Haseeb Ahmed",
+  "version": "1.0.0.0",
+  "brief": "Record and review purchase delivery exceptions and block invoicing until resolved.",
+  "description": "Demo extension: purchase receiving exceptions linked to purchase orders, controlled resolution, and an order-level invoice-posting restriction.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "28.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50139
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
